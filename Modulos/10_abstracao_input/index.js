@@ -2,7 +2,7 @@
 
 import inquirer from 'inquirer'
 
-inquirer.prompt([{
+inquirer.prompt ([{
     name: 'p1', message: 'Qual a primeira nota ?',
 },{
     name: 'p2', message: 'Qual a segunda nota?',
