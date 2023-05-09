@@ -1,5 +1,5 @@
 {
-  "name": "intalacao_handlebars",
+  "name": "node_e_mysql",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.17.1",
     "express-handlebars": "^5.3.3",
-    "nodemon": "^2.0.22"
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.4",
+    "nodemon": "^2.0.12"
   }
 }
